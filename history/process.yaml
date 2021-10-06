@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03CCAL-MJ03F-05-BOTPTA301-streamed-botpt_nano_sample_24hr
 data_stream: RS03CCAL-MJ03F-05-BOTPTA301-streamed-botpt_nano_sample_24hr
-end_date: '2021-09-29T18:44:41.650Z'
-last_updated: '2021-09-30T14:35:07.056260'
+end_date: '2021-10-05T13:37:06.050Z'
+last_updated: '2021-10-06T01:58:21.372855Z'
 start_date: '2014-08-29T20:59:49.975Z'
-status: failed
+status: pending
